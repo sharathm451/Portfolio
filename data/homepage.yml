@@ -1,0 +1,67 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Sharath Macherla <br> AI/ML ENGINEER"
+
+# about
+about:
+  enable : true
+  content : "Hi! you can find a little bit about my work and passion here"
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Machine Learning"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Deep Learning"
+      progress : "70%"
+      color : "#9473e6"
+      
+    - title : "Data visualization"
+      progress : "90%"
+      color : "#bdecf6"
+      
+    - title : "computer vision"
+      progress : "70%"
+      color : "#ffbcaa"
+
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Bachelor's Of Technolgy In Materials Science"
+      year : "2019"
+      academy : "Mahatma Gandhi Institute of Technology"
+      
+    - title : "Higher Secondary"
+      year : "2014"
+      academy : "Ramakrishna jr college"
+      
+      
+    - title : "Secondary School Certificate"
+      year : "2012"
+      academy : "Sidhartha model high school"
+
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
