@@ -10,6 +10,8 @@ draft: false
 
 Description: "Face mask detection using instant synthetic own data and Manual downloaded data, detecting  Mask or No Mask :
 "
+### My Result:
+[For a glimpse of video result click on here](https://user-images.githubusercontent.com/67855083/152309092-d847927d-7679-4d1a-a65e-d0397541e67c.mp4)
 
 In this project, I have done detection with three different sorts:
 1) CNN with preprocessing:
